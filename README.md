@@ -23,6 +23,6 @@
 ## Petunjuk Penggunaan
 
 - Setiap program dapat dijalankan secara mandiri.
-- Pastikan JDK telah terinstal di sistem Anda.
+- Pastikan JDK telah terinstal .
 
 Terima kasih!
